@@ -1,5 +1,7 @@
 # 1 Intro Scikit-learn
 1. [Importar librerías y cargar los datos ](#schema1)
+2. [KNeighborsRegressor()](#schema2)
+3. [Preprocesamiento](#schema3)
 
 <hr>
 
