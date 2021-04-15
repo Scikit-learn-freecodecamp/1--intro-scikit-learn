@@ -1,1 +1,9 @@
-# 1--intro-scikit-learn
+# 1 Intro Scikit-learn
+
+
+
+
+
+# Preprocesamiento
+
+![img](./images/003.png)
